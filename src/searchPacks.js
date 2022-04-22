@@ -15,7 +15,7 @@ const searchPacks = async (q) => {
         else
         request.continue();
     });
-    await page.goto(`https://nibl.co.uk/search?query=subsplease+${q}`);
+    await page.goto(`https://nibl.co.uk/search?query=${q}`);
     
     const results = await page.$$eval('table > tbody > tr', rows => {
         return Array.from(rows, row => {
