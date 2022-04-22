@@ -10,4 +10,4 @@ This is a simple API I made that uses puppeteer to scrape nibl's XDCC packlist.
 
 `https://nibl-api.herokuapp.com/search?q=subsplease+spy+x+family`
 
-![example](https://i.ibb.co/MhkyrZQ/example.png)
+![example](https://i.ibb.co/DQ4LdpP/example.png)
