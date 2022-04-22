@@ -11,6 +11,7 @@
   "author": "SecondBeta",
   "license": "ISC",
   "dependencies": {
+    "@heroku/buildpack-registry": "^1.0.1",
     "express": "^4.17.3",
     "nodemon": "^2.0.15",
     "puppeteer": "^13.6.0",
