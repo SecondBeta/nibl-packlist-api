@@ -2,14 +2,14 @@
   "name": "nibl-packlist-api",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/server.js",
+  "main": "./src/index.js",
   "engines": {
     "node": "16.13.2",
     "npm": "8.32"
   },
   "scripts": {
-    "start": "node ./src/server.js",
-    "dev": "nodemon ./src/server.js"
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
   "author": "SecondBeta",
