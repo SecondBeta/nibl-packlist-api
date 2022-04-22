@@ -4,8 +4,8 @@
   "description": "",
   "main": "./src/index.js",
   "engines": {
-    "node": "16.13.2",
-    "npm": "8.32"
+    "node": "16.13.1",
+    "npm": "8.3.2"
   },
   "scripts": {
     "start": "node ./src/index.js",
@@ -15,7 +15,6 @@
   "author": "SecondBeta",
   "license": "ISC",
   "dependencies": {
-    "@heroku/buildpack-registry": "^1.0.1",
     "express": "^4.17.3",
     "nodemon": "^2.0.15",
     "puppeteer": "^13.6.0",
